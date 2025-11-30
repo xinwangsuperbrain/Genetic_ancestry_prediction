@@ -1,4 +1,4 @@
-These codes are for the paper:   
+These codes are for the paper:   Explicitly modeling genetic ancestry to improve polygenic prediction accuracy for height in a large, admixed cohort of US Latinos: Findings from HCHS/SOL
 
 TrainingPGS_Using_YengoGWAS_includingUKB_inUKBEUR.m
 
