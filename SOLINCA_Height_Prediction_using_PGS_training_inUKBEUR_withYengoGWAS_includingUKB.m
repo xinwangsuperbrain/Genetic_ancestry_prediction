@@ -216,7 +216,7 @@ train = 0.8-length(ia_rel)/length(all_indices);
 train_perc = (train*length(all_indices))/length(sol_nonrela);
 
 
-%%%%%%%%%%%%% 3rd degree using phi cutoff 0.0442 into validation cohort  %%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% Incorporating PC prediction  %%%%%%%%%%%%%%%%%%%%%%%
 PC_covariates = [1,2,3,4,5,10,25,40]
 for pthreshi = 1:7
 for alphai = 1:2 % change lasso or ridge 
